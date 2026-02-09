@@ -35,6 +35,9 @@ D. Efficacy and selectivity
 E. Comparisons
 - [E_Comparisons.R](/scripts/E_Comparisons.R): XXX.
 
+F. Funtional analysis
+- [F_GSEA_analysis_only.ipynb](/scripts/F_GSEA_analysis_only.ipynb): XXX.
+
 ## Authors
 
 All uploaded scripts have been done by:
