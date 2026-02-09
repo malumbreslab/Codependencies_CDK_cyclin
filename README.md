@@ -14,9 +14,7 @@ Link:
 
 ## Data
 
-All data of the project are available at the GEO repository under the accession code: GSE259428. This SuperSeries record provides access to all project data including SubSeries of Cut&Run data (GSE259425), Ultra-low input bulk RNA-seq (GSE259426) and single-cell RNA sequencing data (GSE259427). 
-
-All data needed to evaluate the conclusions in the paper are present in the paper and/or the Supplementary Materials.
+Data including metadata, transcriptomics, gene effect, copy number and mutations were downloaded from DepMap 25Q3(Broad Institute, 2025) and PRISM screening data from from DepMap 19Q4 (Corsello et al., 2020). All data needed to evaluate the conclusions in the paper are present in the paper and/or the Supplementary Materials.
 
 ## Scripts
 
