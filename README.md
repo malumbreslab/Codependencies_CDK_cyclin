@@ -6,6 +6,8 @@ This github repository contains the analysis code used in "A reference map of CD
 
 Link:
 
+This atlas provides a resource to facilitate the stratification of CDK-cyclin vulnerabilities and nominate context-specific therapeutic strategies in human cancer.
+
 ## Table of contents
 
 - [Data](#Data)
