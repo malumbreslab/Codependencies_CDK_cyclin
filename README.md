@@ -25,24 +25,21 @@ A. Codependencies and clustering
 B. PRISM screening
    
 - [B_PRISM_screening.R](/scripts/B_PRISM_screening.R): XXX.
-
-C. IC50 analysis
-- [C_IC50_analysis.R](/scripts/C_IC50_analysis.RR): XXX.
   
-D. Efficacy and selectivity
-- [D_Efficacy_and_selectivity.R](/scripts/D_Efficacy_and_selectivity.R): XXX.
+C. Efficacy and selectivity
+- [C_Efficacy_and_selectivity.R](/scripts/C_Efficacy_and_selectivity.R): XXX.
   
-E. Comparisons
-- [E_Comparisons.R](/scripts/E_Comparisons.R): XXX.
+D. Comparisons
+- [D_Comparisons.R](/scripts/D_Comparisons.R): XXX.
 
-F. Funtional analysis
-- [F_GSEA_analysis_only.ipynb](/scripts/F_GSEA_analysis_only.ipynb): XXX.
+E. Funtional analysis
+- [E_GSEA_analysis_only.ipynb](/scripts/E_GSEA_analysis_only.ipynb): XXX.
 
-G. TCGA validation
-- [G_TCGA_validation.ipynb](/scripts/G_TCGA_validation.ipynb): XXX.
+F. TCGA validation
+- [F_TCGA_validation.ipynb](/scripts/F_TCGA_validation.ipynb): XXX.
 
-H. GSE validation
-- [H_GSE_validation.ipynb](/scripts/H_GSE_validation.ipynb): XXX.
+G. GSE validation
+- [G_GSE_validation.ipynb](/scripts/G_GSE_validation.ipynb): XXX.
 
 ## Authors
 
