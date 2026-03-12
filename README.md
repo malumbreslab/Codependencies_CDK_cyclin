@@ -38,6 +38,12 @@ E. Comparisons
 F. Funtional analysis
 - [F_GSEA_analysis_only.ipynb](/scripts/F_GSEA_analysis_only.ipynb): XXX.
 
+G. TCGA validation
+- [G_TCGA_validation.ipynb](/scripts/G_TCGA_validation.ipynb): XXX.
+
+H. GSE validation
+- [H_GSE_validation.ipynb](/scripts/H_GSE_validation.ipynb): XXX.
+
 ## Authors
 
 All uploaded scripts have been done by:
