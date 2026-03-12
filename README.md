@@ -2,7 +2,7 @@
 
 ## Description
 
-This github repository contains the analysis code used in "A map of CDK-cyclin dependencies in human cancer cell lines" published in bioRxiv:
+This github repository contains the analysis code used in "A reference map of CDK-cyclin dependencies across human cancers" published in bioRxiv:
 
 Link:
 
