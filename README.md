@@ -43,6 +43,9 @@ F. TCGA validation
 G. GSE validation
 - [G_GSE_validation.ipynb](/scripts/G_GSE_validation.ipynb): Validation of breast cancer markers from different clusters in BRCA in published data.
 
+H. Extra analysis
+- [H_Extra_analysis.R](/scripts/H_Extra_analysis.R): Confounding factors adjustment of CDK–cyclin co-dependencies and validation of the expression-based classifier in DepMap. 
+
 ## Authors
 
 All uploaded scripts have been done by:
